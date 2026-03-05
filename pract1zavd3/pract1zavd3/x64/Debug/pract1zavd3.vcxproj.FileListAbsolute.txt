@@ -1,0 +1,3 @@
+C:\Users\HP\source\repos\pract1zavd3\pract1zavd3\x64\Debug\pract1zavd3.vcxproj.AssemblyReference.cache
+C:\Users\HP\source\repos\pract1zavd3\pract1zavd3\x64\Debug\pract1zavd3.MyForm.resources
+C:\Users\HP\source\repos\pract1zavd3\pract1zavd3\x64\Debug\pract1zavd3.vcxproj.GenerateResource.cache
